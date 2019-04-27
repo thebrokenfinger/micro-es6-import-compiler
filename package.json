@@ -1,0 +1,13 @@
+{
+  "name": "micro-es6-import-compiler",
+  "version": "1.0.0",
+  "description": "A micro, over-simplified compiler that turns ES6 import statement into JS require statement",
+  "main": "compiler.js",
+  "repository": "git@github.com:yatharthk/micro-es6-import-compiler.git",
+  "author": "Yatharth Khatri <yatharth01@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "cli-highlight": "^2.1.0"
+  }
+}
