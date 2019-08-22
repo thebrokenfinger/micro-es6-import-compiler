@@ -1,6 +1,6 @@
 # micro-es6-import-compiler
 
-A micro, over-simplified compiler that turns ES6 `import` statement into JS `require` statement.
+A micro, over-simplified compiler that turns ES6 `import` statement into CommonJS `require` statement.
 
 ## How to use
 
@@ -10,7 +10,7 @@ In order to better understand the parts of compiler, you shall edit code to chec
 
 ## Documentation
 
-A nice README shall be added soon, but till then, you may love to read the concepts [here](https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js#L78-L360). Although, that explains for compiling call expression from Lisp-like to C-like statements. But should do to explain you a lot.
+You may love to read the concepts in more detail over [here](https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js#L78-L360). Although, that explains for compiling call expression from Lisp-like to C-like statements. But should do to explain you a lot. :)
 
 ## Inspiration
 
@@ -18,4 +18,4 @@ The [super tiny compiler by James Kyle](https://github.com/jamiebuilds/the-super
 
 ## License
 
-MIT c [yatharthk](https://twitter.com/yatharthkhatri)
+MIT © [yatharthk](https://twitter.com/yatharthkhatri)
